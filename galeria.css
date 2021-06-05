@@ -1,0 +1,69 @@
+body { padding-top: 70px; 
+
+}
+.jumbotron {
+  color: #2F4F4F;
+  background: #808080;
+
+}
+.navbar-inverse {
+  background: #2F4F4F;
+  color: white;
+}
+.navbar-inverse .navbar-brand, .navbar-inverse a{
+  color:white;
+}
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+} 
+.image1{
+
+background-image: url(https://cdn.discordapp.com/attachments/341622796587368449/728773746592317501/SE2Jo2yIDzYGsy3QhyTKvnuius4VxO-bNtzuvPm5ztt8leywR0zKtRLyXY_iHzxUpx3layLm9SLpBRsR0BMEKvxmZ6lgFFFv1RjH.png);
+
+}
+.image2{
+
+background-image: url(https://cdn.discordapp.com/attachments/341622796587368449/728775190426943558/dMBRl2U2cPj35ZwxRwXXG1jRwtOTgWoyHPlEvUPvB_abUv_-iiMZ0VBR8Rw9Ft5pmfdU7YdjUhMQu-b4KTxt7AbICAI6H8f8OflN.png);
+
+}
+.image3{
+
+background-image: url(https://cdn.discordapp.com/attachments/341622796587368449/728775962178617405/kBZ7lnqYtYcA614dQLqsbLIRirpBPUW5P33AkGDMqZ0R3MrQKBS9LVhQQojeTazttsXf2SllUmk5A0OfBUhnJlHR4kb6EuAhC15f.png);
+
+}
+.image4{
+
+background-image: url(https://cdn.discordapp.com/attachments/341622796587368449/728776860363784284/ChsFqDc0F2FN9oiRQ14JHvCWQ0H0k9CKod6Kix-Dck9rn_JxnB0l29lGjoqMdSX80GJd7BeqJw9-B6sj5-lGHNgrzZXNEyRKpayv.png);
+
+}
+.image5{
+
+background-image: url(https://cdn.discordapp.com/attachments/341622796587368449/728780090581975110/tOQrjPE1gsO9AqpwxLjcPRwgI5LUBy3RdbBAeQSSof1deD3hj7cNeywi-HHWtR16LwV3714FJg8erL7GpGXeK26b--UVa9dYAVKL.png);
+
+}
+.image6{
+
+background-image: url(https://cdn.discordapp.com/attachments/341622796587368449/728779819709628456/unknown.png);
+
+}
+.image7{
+
+background-image: url(https://cdn.discordapp.com/attachments/341622796587368449/728779144191803443/unknown.png);
+
+}
+.image8{
+
+background-image: url(https://cdn.discordapp.com/attachments/341622796587368449/728773582208893039/slav_2.png);
+
+}
+.image9{
+
+background-image: url(https://cdn.discordapp.com/attachments/341622796587368449/728773583878357002/sandrowave.png);
+
+}
+.image {
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+}
